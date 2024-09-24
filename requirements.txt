@@ -1,0 +1,8 @@
+flask
+flask-cors
+flask-limiter
+gspread
+google-auth
+google-auth-oauthlib
+requests
+openai>=1.30.0
